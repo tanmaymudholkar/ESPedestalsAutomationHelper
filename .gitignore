@@ -1,0 +1,4 @@
+*.pyc
+histogramBookingBT.log
+*_output.txt
+DQM_V0003_R000275511__All__Run2016__MiniDAQ.root
